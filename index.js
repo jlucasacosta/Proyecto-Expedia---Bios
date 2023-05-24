@@ -1,0 +1,3 @@
+const functionBuy = () => { 
+    alert('Compraste');
+}
